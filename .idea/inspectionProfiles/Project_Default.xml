@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="environs" />
+            <item index="1" class="java.lang.String" itemvalue="aiogram" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.Tk" />
+          <option value="telegram.InlineKeyboardButton" />
+          <option value="data.config.environs" />
+          <option value="main.turtle" />
+          <option value="turtle" />
+          <option value="main.range" />
+          <option value="main.done" />
+          <option value="main.Pen" />
+          <option value="apikey.APIKEY" />
+          <option value="json.json.dumps" />
+          <option value="googlemaps.client.Client.geocode" />
+          <option value="loader.dp" />
+          <option value="data.config" />
+          <option value="states.personalData" />
+          <option value="aiogram.keyboards" />
+          <option value="blog.urls.blog_detail_view" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
